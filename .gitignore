@@ -2,6 +2,9 @@
 logs/*.log
 logs/*.json
 
+# Runtime data (large files, do not commit)
+data-runtime/
+
 # Test data
 tests/*.jpg
 tests/*.png
