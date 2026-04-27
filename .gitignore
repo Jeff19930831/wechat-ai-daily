@@ -1,0 +1,27 @@
+# Logs
+logs/*.log
+logs/*.json
+
+# Test data
+tests/*.jpg
+tests/*.png
+tests/*.bmp
+tests/*.dat
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Environment
+.env
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
